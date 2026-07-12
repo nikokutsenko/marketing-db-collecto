@@ -49,5 +49,20 @@
 
 - "Дякую за інформацію але щось нічого не почула про захворювання печінки (гепатози, цироз), що теж спричиняє дефіцит вітаміну B12" — [Дефіцит вітаміну B12](https://www.youtube.com/watch?v=JG2EurdMLzE), укр. Не заперечення продукту як такого, а сигнал ніші: аудиторія з супутніми діагнозами (аутоімунні, печінка) хоче нішевого, а не загального контенту.
 
+## 11. "Обробка знищує клітковину, яка є в цільних овочах"
+
+- "Can't think of a better idea than to skip all the fiber provided by
+  vegetables. Genius." (439👍 — топ-коментар на відео) — [are GREENS worth your $](https://www.youtube.com/watch?v=B6vPBaPvd-Y), Renaissance Periodization, англ.
+
+## 12. Непрозорі формулювання складу ("natural flavors")
+
+- "The problem is they add Natural Flavors." (3👍) — [Amazing Grass Supergreens Review](https://www.youtube.com/watch?v=U0WuIvHsSD4), англ.
+
+## 13. Представники бренду уникають прямої відповіді (PR-мова замість фактів)
+
+- "That doesn't answer the question... Waste[d their answer on cost instead of health]" (254👍) — [DO GREENS POWDERS WORK?](https://www.youtube.com/watch?v=8des-thZq3M), Norton Healthcare, англ.
+- "She is reading what to say 😅" (11👍) — там само.
+- "what a dumb answer. She was asked if it was healthy and gave a cost analysis instead" (112👍) — там само.
+
 ---
-*Джерела: цикли 1-3, YouTube Data API, 2026-07-11.*
+*Джерела: цикли 1-4, YouTube Data API, 2026-07-11.*

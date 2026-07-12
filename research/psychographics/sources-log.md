@@ -127,3 +127,41 @@ pGfYZwC4kJk, Ou2zNW4hdZM, 25sM5ZbFn1Q
 коментарів, ніж укр. вітграс-сегмент у циклі 1 (великі медичні/health
 канали, а не бренд-канали). Варто пріоритизувати такий тип каналів у
 наступних циклах для решти брендових тем (Orthomol, Solgar).
+
+## Цикл 4 — 2026-07-11 (автономний)
+
+### Amazing Grass — огляди + коментарі
+Запит: `Amazing Grass greens powder review`
+
+Відео з витягнутими коментарями:
+- [q_jL-8LaryQ](https://www.youtube.com/watch?v=q_jL-8LaryQ) — Shop with Nez, "Full Review"
+- [U0WuIvHsSD4](https://www.youtube.com/watch?v=U0WuIvHsSD4) — Supplemental Kyle, "The Ultimate Superfood for Your Health?"
+- [KrzykmjmjRc](https://www.youtube.com/watch?v=KrzykmjmjRc) — Paul Saladino MD, "Greens powders are harmful?" (категорійний скепсис, не бренд-специфічний, але дуже релевантний — топ-коментарі про AG1 як "scam", загальна втома від маркетингу категорії)
+
+Не опрацьовано: FFkhNL4s88A, nTw0fmv3AlI, GStbhXb2q9s, 9Mfw-1v06M0, Ycy9Ry4Id9w
+
+### Organifi — огляди + коментарі
+Запит: `Organifi green juice review`
+
+Відео з витягнутими коментарями:
+- [BtkNhpM5oEc](https://www.youtube.com/watch?v=BtkNhpM5oEc) — Michael Lewis Hudson, "Honest Review"
+- [A5dyHNoJmbA](https://www.youtube.com/watch?v=A5dyHNoJmbA) — Kristen Blake Wellness, "A Nutritionist's Honest Review"
+- [VNGzycp82k8](https://www.youtube.com/watch?v=VNGzycp82k8) — Hangry Half Asian [Keto], "TASTY OR STRAIGHT NASTY?"
+
+Не опрацьовано: AIP9rS9izpE, XW5jzv_pBc4, RXBFxApR6Bw, geyENRBhutQ, 5l3JTup5VLY
+
+### Your Super — огляди + коментарі
+Запит: `Your Super greens review` — у видачі не було жодного відео власне
+про бренд Your Super (алгоритм видав конкурентів і категорійний
+контент). Опрацьовано як загальнокатегорійні дані:
+- [B6vPBaPvd-Y](https://www.youtube.com/watch?v=B6vPBaPvd-Y) — Renaissance Periodization, "are GREENS worth your $" (топ-коментар 439👍 про клітковину)
+- [8des-thZq3M](https://www.youtube.com/watch?v=8des-thZq3M) — Norton Healthcare, "DO GREENS POWDERS WORK?" (дуже показові коментарі про ухильні відповіді бренд-представників)
+- [kpNMerrEauY](https://www.youtube.com/watch?v=kpNMerrEauY) — TootieGraham, "The TRUTH About Kiala Super Greens"
+
+**Рекомендація для наступного циклу:** спробувати вужчий запит
+`"Your Super" brand review` окремо, якщо потрібні саме бренд-специфічні
+дані по Your Super.
+
+### YouTube API — квота цикл 4
+3 search.list (300 unit) + 9 commentThreads.list (9 unit) = ~309 unit.
+Сукупно за день (цикл 1-4): ~1136/10 000 unit.

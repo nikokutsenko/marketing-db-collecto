@@ -39,6 +39,16 @@
 
 - Саме заголовок відео "NOT FDA APPROVED: Navitas Barley Grass Powder" (Dr. Kilimanguru) — окремий формат контенту, що експлуатує цей страх як хук. — [відео](https://www.youtube.com/watch?v=AP9EUI--Srs), англ., сегмент Вітгерм
 
+## 8. Важкі метали/забруднення (свинець) — наскрізний страх категорії грінз-порошків
+
+- "What about the class action lawsuit?" (0👍) — [Amazing Grass Supergreens Review](https://www.youtube.com/watch?v=U0WuIvHsSD4), англ. (реакція на реальні судові позови проти виробників грінз-порошків через важкі метали)
+- "Does this product habe lead in it?" (1👍) — там само.
+- "Why is there a lead poisoning / chance of cancer warning on the label?" (0👍) — [Organifi Green Juice — Honest Review](https://www.youtube.com/watch?v=BtkNhpM5oEc), англ. (реакція на Prop 65 warning-етикетку в США)
+
+## 9. Небажані побічні ефекти з боку травлення
+
+- "Will you have to 'RUN' to the bathroom? does it upset your stomach" (0👍) — [The TRUTH About Kiala Super Greens](https://www.youtube.com/watch?v=kpNMerrEauY), англ.
+
 ---
-*Джерела: цикли 1-2, YouTube Data API (search+commentThreads), 2026-07-11. Повний список
+*Джерела: цикли 1-2 і 4, YouTube Data API (search+commentThreads), 2026-07-11. Повний список
 відео — `sources-log.md`.*

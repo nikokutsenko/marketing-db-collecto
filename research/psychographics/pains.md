@@ -59,7 +59,19 @@
 
 - "30 г клітковини споживає мінімум людей, що створює у багатьох проблеми зі здоров'ям" (2👍) — [Клітковина, її необхідно їсти кожного дня](https://www.youtube.com/watch?v=y5oVga4qDu0), YvonikaTM, укр.
 
+## 10. Свіжі овочі швидко псуються — реальний драйвер до категорії порошків
+
+- "I often don't eat all of my fruits and veggies because they go bad in
+  the fridge within like 3 days, so I toss them. Waste[d money]" (254👍) — [DO GREENS POWDERS WORK?](https://www.youtube.com/watch?v=8des-thZq3M), англ.
+- "The problem with buying greens is that I gotta sacrifice all of my
+  refrigerator space, or go shopping for greens every 4 days" (40👍) — там само.
+
+  **Важливо:** це не заперечення категорії, а біль, який категорія
+  *вирішує* — прямо суперечить п.11 у `objections.md` ("порошок гірший
+  за цільні овочі"). Ця напруга між "порошок зручніший" і "порошок
+  гірший за цільну їжу" — центральний конфлікт психографії категорії.
+
 ---
-*Джерела: цикли 1-3, YouTube Data API + WebSearch, 2026-07-11. Пункт 2
+*Джерела: цикли 1-4, YouTube Data API + WebSearch, 2026-07-11. Пункт 2
 циклу 1 потребує додаткової верифікації на незалежних (не-продавцевих)
 джерелах — залишено в BACKLOG.*
