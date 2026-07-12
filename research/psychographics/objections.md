@@ -78,5 +78,29 @@
   БАД. БАДы производятся не по GMP" (3👍) — [Мой личный опыт БАДов от SOLGAR](https://www.youtube.com/watch?v=OllItfFhmYU), рос. Продовжує наскрізну тему плутанини
   категорії БАД/ліки/сертифікати (див. п.3, п.6).
 
+## 16. Перенасичений і складно верифікований ринок (укр. контекст)
+
+- "Понад 200 фірм продають в Україні дієтичні добавки. Дуже складно
+  розрізнити шкідливі добавки від нешкідливих." — [«Дієтичні добавки»: панацея від хвороб чи вдале ошукування?](https://www.radiosvoboda.org/a/1512521.html), Радіо Свобода, укр. (WebSearch).
+
+## 17. "Смак настільки поганий, що жодне змішування не рятує"
+
+- "The major downside for me is the taste. It's horrible. No matter how
+  I mix it, the flavor is hard to mask." (Amazing Grass) — [Is Amazing Grass Green Superfood Legit?](https://blog.revgear.com/amazing-grass-green-superfood-review/), англ. (WebSearch). Підтверджує п.8 в `objections.md`
+  на новому бренді — смак повторюється як бар'єр по всій категорії.
+
+## 18. Втома від смаку навіть після звикання, попри високу ціну (AG1)
+
+- "AG1's high cost and taste fatigue disappoint." — [AG1 vs Amazing Grass](https://www.supplementscored.com/compare/ag1-vs-amazing-grass/), англ. (WebSearch). Не разове
+  розчарування смаком, а *накопичувальна* втома навіть у тих, хто
+  спочатку продукт прийняв.
+
+## 19. Пробіотична доза занадто мала, щоб бути ефективною (сумнів у "proprietary blend")
+
+- "It has probiotic content, but the dosage is low and potentially
+  ineffective." (Amazing Grass) — [Is Amazing Grass Green Superfood Legit?](https://blog.revgear.com/amazing-grass-green-superfood-review/), англ. (WebSearch). Класичний сумнів
+  індустрії грінз-порошків: непрозорі "proprietary blend"-дозування
+  не дозволяють перевірити, чи інгредієнт взагалі діє в такій кількості.
+
 ---
-*Джерела: цикли 1-5, YouTube Data API, 2026-07-11.*
+*Джерела: цикли 1-6, YouTube Data API + WebSearch, 2026-07-11.*

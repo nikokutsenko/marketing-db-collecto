@@ -93,5 +93,13 @@ class action lawsuits проти грінз-порошків) — аудитор
   какого производителя" (25👍) — [SOLGAR 100% ОРИГИНАЛ, КАК КУПИТЬ?](https://www.youtube.com/watch?v=XTnDQteUJRk), рос. Аудиторія спорт-каналів теж
   цікавиться базовою нутриціологією, не тільки перформансом.
 
+## 14. Гладка розчинність без грудочок ("gritty residue")
+
+- "A single scoop dissolves easily in water, leaving no gritty
+  residue — an advantage over greens powders that remain clumpy even
+  with thorough mixing." (про Organifi, порівняно з Amazing Grass) — [AG1 vs Amazing Grass](https://www.supplementscored.com/compare/ag1-vs-amazing-grass/), англ. (WebSearch).
+  Конкретний, вимірюваний атрибут продукту (текстура/розчинність), а
+  не абстрактна "якість" — можлива точка диференціації для Terratonic.
+
 ---
-*Джерела: цикли 1-5, YouTube Data API, 2026-07-11.*
+*Джерела: цикли 1-6, YouTube Data API + WebSearch, 2026-07-11.*
