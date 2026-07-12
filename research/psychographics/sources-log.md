@@ -165,3 +165,41 @@ pGfYZwC4kJk, Ou2zNW4hdZM, 25sM5ZbFn1Q
 ### YouTube API — квота цикл 4
 3 search.list (300 unit) + 9 commentThreads.list (9 unit) = ~309 unit.
 Сукупно за день (цикл 1-4): ~1136/10 000 unit.
+
+## Цикл 5 — 2026-07-11 (автономний)
+
+### Orthomol — огляди (укр. пріоритет, реально рос./міжн.)
+Запит: `Orthomol відгуки`
+
+Відео з витягнутими коментарями:
+- [QPplMCc1TZU](https://www.youtube.com/watch?v=QPplMCc1TZU) — "Orthomol Arthroplus" (0 корисних коментарів)
+- [B8FqqbTRu48](https://www.youtube.com/watch?v=B8FqqbTRu48) — Дмитрий Семирядов, "Обзор брендов" (охоплює й Orthomol, і Solgar — ціновий-скептицизм, топ-коментар циклу)
+
+Чисто українськомовного Orthomol-контенту з реальними коментарями не
+знайдено в топі видачі — переважає рос./міжнародний. Не опрацьовано:
+2-XFIRZ7C3o, MlBfDSq1v2I, X_q7_bKx9hg, WF7OOFLFKP4, RtMFASaQ8Hg (див.
+Solgar нижче — той самий відео потрапило в обидва запити), zYe2FENIn5g
+
+### Solgar — огляди (укр. пріоритет, реально рос./міжн.)
+Запит: `Solgar відгуки`
+
+Відео з витягнутими коментарями:
+- [OllItfFhmYU](https://www.youtube.com/watch?v=OllItfFhmYU) — Anast_Asia, "Мой личный опыт БАДов от SOLGAR"
+- [XTnDQteUJRk](https://www.youtube.com/watch?v=XTnDQteUJRk) — BodyBuildingRussia, "SOLGAR 100% ОРИГИНАЛ, КАК КУПИТЬ?"
+- [RtMFASaQ8Hg](https://www.youtube.com/watch?v=RtMFASaQ8Hg) — Школа здорового тела, "3 БАДа, которые лучше НЕ покупать!"
+- [h54_2HMGJCU](https://www.youtube.com/watch?v=h54_2HMGJCU) — Dr. Berg (рос. канал), "Ни в коем случае не пейте эти витамины после 50!" (найвищий вихід за лайками в усьому проєкті — 2942👍 на одному коментарі)
+
+Не опрацьовано: ibYJ2emc1nU, cLq3zq3J2z0, xQqrh7HKWaY, lfEW8T87Nv8
+
+### YouTube API — квота цикл 5
+2 search.list (200 unit) + 6 commentThreads.list (6 unit) = ~206 unit.
+Сукупно за день (цикл 1-5): ~1342/10 000 unit.
+
+### Спостереження
+Це найбагатший цикл за силою резонансу коментарів (кілька коментарів
+із тисячами лайків) — тема "вік 50+" і "ціна vs бренд" викликають
+набагато сильнішу емоційну реакцію аудиторії, ніж бренд-специфічні
+відгуки. Чисто українськомовний контент про преміум-бренди (Orthomol,
+Solgar) в топі видачі практично відсутній — домінує російськомовний і
+міжнародний; це саме по собі психографічний інсайт про пробіл на ринку
+контенту.
