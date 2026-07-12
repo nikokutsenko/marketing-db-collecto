@@ -85,3 +85,45 @@ pGfYZwC4kJk, Ou2zNW4hdZM, 25sM5ZbFn1Q
 
 ### Не встигли цього циклу
 "мікробіом / gut health" — переноситься на цикл 3 (перший пункт черги).
+
+## Цикл 3 — 2026-07-11 (автономний)
+
+### мікробіом / gut health (укр.)
+Запит: `мікробіом кишківника здоров'я`
+
+Відео з витягнутими коментарями:
+- [2a1ReMqaQZg](https://www.youtube.com/watch?v=2a1ReMqaQZg) — Школа здоров'я Наталії Власнюк, "Мікробіом: Ключ до ремісії при АІТ, псоріазі та артриті"
+- [3v_OWVvqJVA](https://www.youtube.com/watch?v=3v_OWVvqJVA) — Медичний | Medical TV, "Мікроби, які керують тобою!"
+- [Ml_7PFHmfog](https://www.youtube.com/watch?v=Ml_7PFHmfog) — Людмила Шупенюк, "СЕКРЕТ ДОВГОЛІТТЯ РОЗКРИТО! Мікробіом" — **найвищий вихід циклу**: залучена аудиторія, десятки практичних DIY-рецептів у коментарях
+
+Не опрацьовано: FvZWEKBQ6gc, _fgTiaZw07M, jPIUR5sdpqM, J95YNPIizv0, P0obO67uw4U
+
+### клітковина / fiber deficiency (укр.)
+Запит: `клітковина дефіцит харчування`
+
+Відео з витягнутими коментарями:
+- [9sCwTxRy-Mc](https://www.youtube.com/watch?v=9sCwTxRy-Mc) — "Дефіцити які легко закрити!" (низький вихід — подячні коментарі)
+- [y5oVga4qDu0](https://www.youtube.com/watch?v=y5oVga4qDu0) — YvonikaTM, "Клітковина, її необхідно їсти кожного дня"
+- [Bo3gag0g6J8](https://www.youtube.com/watch?v=Bo3gag0g6J8) — "Як Правильно Перевірити Дефіцит Магнію" (0 корисних коментарів)
+
+Не опрацьовано: VZUjuiWp7rs, 7l6z5CugWjA, MNTCWLQlIEI, D5KKCykkrDs, 9ifEeK5OfTY
+
+### дефіцит поживних речовин / nutrient deficiency (укр.)
+Запит: `дефіцит вітамінів симптоми`
+
+Відео з витягнутими коментарями:
+- [GeJCTh_qOoY](https://www.youtube.com/watch?v=GeJCTh_qOoY) — Haborets clinic, "Які симптоми дефіциту вітаміну D?"
+- [NOtAt2uPWQI](https://www.youtube.com/watch?v=NOtAt2uPWQI) — Ілона Ханько Ендокринолог, "Дефіцит Вітаміну D"
+- [JG2EurdMLzE](https://www.youtube.com/watch?v=JG2EurdMLzE) — Юрій Бенедичук, "Дефіцит вітаміну B12"
+
+Не опрацьовано: eyDmSVNJdrc, Z076z7lHCzc
+
+### YouTube API — квота цикл 3
+3 search.list (300 unit) + 9 commentThreads.list (9 unit) = ~309 unit.
+Сукупно за день (цикл 1+2+3): ~827/10 000 unit.
+
+### Спостереження
+Українськомовний контент про мікробіом/дефіцити дав суттєво вищий вихід
+коментарів, ніж укр. вітграс-сегмент у циклі 1 (великі медичні/health
+канали, а не бренд-канали). Варто пріоритизувати такий тип каналів у
+наступних циклах для решти брендових тем (Orthomol, Solgar).
