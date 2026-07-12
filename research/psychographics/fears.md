@@ -31,6 +31,14 @@
 
 - "Huberman as a Stanford trained researcher loses all credibility... He promotes this product almost religiously meanwhile there's no real science" (2714👍) — [The Junk Science of Athletic Greens (AG1)](https://www.youtube.com/watch?v=xT26GxS5e-g), англ.
 
+## 6. Страх протипоказань (вагітність/лактація) — вітграс
+
+- "Right way to use is it drink early morning on empty stomach. Avoid if you are pregnant or breastfeeding." (104👍) — [Side effects Of Wheatgrass](https://www.youtube.com/watch?v=8Rl7aHkJ3oM), англ., сегмент Вітграс. Найбільш залайканий коментар на відео — сигнал, що аудиторія активно шукає саме протипоказання, не тільки користь.
+
+## 7. Страх "непідтвердженості" / відсутності регуляторного схвалення (вітгерм)
+
+- Саме заголовок відео "NOT FDA APPROVED: Navitas Barley Grass Powder" (Dr. Kilimanguru) — окремий формат контенту, що експлуатує цей страх як хук. — [відео](https://www.youtube.com/watch?v=AP9EUI--Srs), англ., сегмент Вітгерм
+
 ---
-*Джерела: цикл 1, YouTube Data API (search+commentThreads), 2026-07-11. Повний список
+*Джерела: цикли 1-2, YouTube Data API (search+commentThreads), 2026-07-11. Повний список
 відео — `sources-log.md`.*

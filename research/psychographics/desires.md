@@ -22,5 +22,29 @@
 
 - Позитивна реакція аудиторії саме на відео від практикуючих лікарів, які говорять прямо ("Здравый смысл! Без анализов конечно впустую принимать. Спасибо") (0👍) — [Витамины и БАДы: что реально работает, а что — развод](https://www.youtube.com/watch?v=zHscedoI4zE), рос.
 
+## 6. Швидкий і відчутний приплив енергії та ясності розуму (наскрізний мотив вітграс-сегменту)
+
+- "I start drinking wheatgrass like 3 weeks ago .. I feel more
+  energized.. super strong .. I recommend.." (192👍) — [12 Scientific Health Benefits of Wheat Grass Powder by Dr. Berg](https://www.youtube.com/watch?v=7W9BJpFMaa4), англ.
+- "No other food on earth, gives me more energy and clarity then this
+  single one food. Hands down." (57👍) — там само.
+
+## 7. Готовність вірити в екстраординарні/трансформаційні ефекти
+
+Один із найсильніших психографічних інсайтів циклу: у вітграс-сегменті
+аудиторія охоче ділиться й лайкає надзвичайні, медично не верифіковані
+історії — це показує глибину емоційної інвестиції в категорію, але
+**не факти для використання в комунікації**.
+
+- "The wheat grass helped me beat cancer faster, while I was doing the
+  chemo treatments... my white blood cell count increase there for my
+  body recovered faster." (441👍) — [12 Scientific Health Benefits of Wheat Grass Powder by Dr. Berg](https://www.youtube.com/watch?v=7W9BJpFMaa4), англ.
+- "It also slowly will make white or gray hair start to turn back to
+  its natural color..." (35👍) — там само.
+
+*Застереження: це недоведені медичні твердження з коментарів, а не факти.
+Фіксуються тут виключно як психографічний інсайт про очікування аудиторії,
+не як claim, придатний для реклами.*
+
 ---
-*Джерела: цикл 1, YouTube Data API, 2026-07-11.*
+*Джерела: цикли 1-2, YouTube Data API, 2026-07-11.*

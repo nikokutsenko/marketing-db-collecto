@@ -32,7 +32,26 @@
   дефицит?" (0👍) — [Витамины и БАДы: что реально работает](https://www.youtube.com/watch?v=zHscedoI4zE), рос. — показує біль
   "не знаю що саме мені бракує і як це виміряти без аналізів".
 
+## 5. Неприємний смак/текстура порошку (вітгерм)
+
+- "I had to encapsulate mine. It was gagging me by putting it in the
+  smoothie. It was like drinking grass tasting wet sawdust." (3👍) — [Review: Hack your Heavy Metal Detox with Barley Grass Juice Powder](https://www.youtube.com/watch?v=5MniTGK-ZxQ), англ., сегмент Вітгерм.
+  Прямо пояснює, чому люди переходять на капсули замість порошку — важливо
+  для формату продукту Terratonic.
+
+## 6. Плутанина з дозуванням
+
+- "Oops. I've been taking 4x that much." (1👍) — [Review: Hack your Heavy Metal Detox with Barley Grass Juice Powder](https://www.youtube.com/watch?v=5MniTGK-ZxQ), англ., сегмент Вітгерм.
+- "How long taking this daily does it take to get the most benefits" (1👍) — [Barley Juice Benefits & Barley Grass Juice Powder Review](https://www.youtube.com/watch?v=0okAG1dYYAE), англ.
+
+## 7. Труднощі з локальною доступністю/покупкою бренду
+
+- "Thank you! Very informative, but I am here in Canada, is there any
+  equivalent in my country?" (4👍) — [Barley Juice Benefits & Barley Grass Juice Powder Review](https://www.youtube.com/watch?v=0okAG1dYYAE), англ.
+  Прямий сигнал важливості локальної/регіональної доступності бренду —
+  релевантно для позиціонування Terratonic саме як українського бренду.
+
 ---
-*Джерела: цикл 1, YouTube Data API + WebSearch, 2026-07-11. Пункт 2
-потребує додаткової верифікації на незалежних (не-продавцевих) джерелах
-— додано в BACKLOG.*
+*Джерела: цикли 1-2, YouTube Data API + WebSearch, 2026-07-11. Пункт 2
+циклу 1 потребує додаткової верифікації на незалежних (не-продавцевих)
+джерелах — залишено в BACKLOG.*

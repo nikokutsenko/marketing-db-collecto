@@ -53,3 +53,35 @@ sJpoX5oMCAk, xtIjtf8KiLc, qlBQducF4T4, -8ijIKU-3ic, 0Rv9VJm2gx4, B6vPBaPvd-Y
 ### YouTube API — квота
 Використано орієнтовно: 3 search.list (300 unit) + 12 commentThreads.list
 (12 unit) = ~312 з 10 000 unit денної квоти в цьому циклі.
+
+## Цикл 2 — 2026-07-11 (автономний)
+
+### wheatgrass powder — огляди (eng, великі канали)
+Запит: `wheatgrass powder review`
+
+Відео з витягнутими коментарями:
+- [8Rl7aHkJ3oM](https://www.youtube.com/watch?v=8Rl7aHkJ3oM) — Dr. Vivek Joshi, "Side effects Of Wheatgrass"
+- [7W9BJpFMaa4](https://www.youtube.com/watch?v=7W9BJpFMaa4) — Dr. Eric Berg DC, "12 Scientific Health Benefits of Wheat Grass Powder"
+- [DeLTQ6Ozlsg](https://www.youtube.com/watch?v=DeLTQ6Ozlsg) — "Top 5 Best Wheatgrass Powder" (0 коментарів)
+
+Не опрацьовано (є в результатах, залишити на наступний цикл):
+5a7Ss7t2OQI, 1r_vun-ERQI, lCJRJGXBXGQ, 1MDGSbA6u4A, zwYoK0nJTQs,
+U1qWp_1lHA4, PFuB48yJgmM
+
+### вітгерм / barley grass powder — огляди
+Запит: `barley grass powder review`
+
+Відео з витягнутими коментарями:
+- [AP9EUI--Srs](https://www.youtube.com/watch?v=AP9EUI--Srs) — Dr. Kilimanguru, "NOT FDA APPROVED: Navitas Barley Grass Powder" (коментарі здебільшого тагальською, не про продукт по суті — низька цінність)
+- [5MniTGK-ZxQ](https://www.youtube.com/watch?v=5MniTGK-ZxQ) — Heidi's Reviews, "Hack your Heavy Metal Detox with Barley Grass Juice Powder"
+- [0okAG1dYYAE](https://www.youtube.com/watch?v=0okAG1dYYAE) — Advanced Nutrition and Health, "Barley Juice Benefits & Barley Grass Juice Powder Review"
+
+Не опрацьовано: xE3o358-OPY, nf1IB4lNgAg, JojKae18Psw, W3P5bHwb_Ag,
+pGfYZwC4kJk, Ou2zNW4hdZM, 25sM5ZbFn1Q
+
+### YouTube API — квота цикл 2
+2 search.list (200 unit) + 6 commentThreads.list (6 unit) = ~206 unit.
+Сукупно за день (цикл 1+2): ~518/10 000 unit.
+
+### Не встигли цього циклу
+"мікробіом / gut health" — переноситься на цикл 3 (перший пункт черги).
