@@ -248,3 +248,19 @@ iHerb конкретно не з'явився у видачі. Отримано 
 
 ### YouTube API — квота цикл 7
 0 (WebSearch-only). Сукупно за день: ~1342/10 000 unit (без змін).
+
+## Цикл 8 — 2026-07-11 (автономний, WebSearch-only)
+
+### Amazing Grass — креативна стратегія
+Запит: `Amazing Grass brand marketing strategy ad creative Facebook hooks`
+Результат: `creatives/amazing-grass.md` — повністю інфлюенсер-центрична
+стратегія (місячні серії UGC-постів), не придатна як приклад візуалу.
+
+### Organifi — креативна стратегія
+Запит: `Organifi ad creative strategy marketing hooks influencer positioning`
+Результат: `creatives/organifi.md` — курований мікро-інфлюенсер-фаннел
+(grin.co case study), методологічний принцип "Sandbox Strategy"
+(паралельне тестування кутів повідомлення) переносимий і на не-UGC формати.
+
+### YouTube API — квота цикл 8
+0 (WebSearch-only). Сукупно за день: ~1342/10 000 unit (без змін).
